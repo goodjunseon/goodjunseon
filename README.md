@@ -1,10 +1,9 @@
 # 👋 Hi, I'm JunSeon!! #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjunseon)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://github-readme-streak-stats.herokuapp.com?user=goodjunseon&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /><br>
 
-# #
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pzs20019})](https://solved.ac/{pzs20019})
+
+
 
 # 📚Studying... #
 ## 🚀Backend ## 
