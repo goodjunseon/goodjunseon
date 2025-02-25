@@ -3,6 +3,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=goodjunseon&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodjunseon&count_bg=%23498A17&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pzs20019})](https://solved.ac/{pzs20019})
+
 # 📚Studying... #
 ## 🚀Backend ## 
 <div><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
