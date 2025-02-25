@@ -4,10 +4,8 @@
 
 
 
-# 💬Blog #
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://mydcaf.tistory.com/))
-
 # 📚Studying... #
+
 ## 🚀Backend ## 
 <div><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
