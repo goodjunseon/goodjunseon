@@ -1,4 +1,5 @@
 # 👋 Hi, I'm JunSeon!! #
+협업하는 좋아하는 백엔드 개발자입니다. 실패를 두려워하지 않고 성장하는 것을 좋아합니다!😀 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pzs20019)](https://solved.ac/pzs20019)
 
