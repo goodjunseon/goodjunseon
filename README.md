@@ -8,9 +8,18 @@
 # 📚Studying... #
 
 ## 🚀Backend ## 
+<div>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
+</div>
+
+
+
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&&logoColor=white">
+
+
+
 </div>
 
 ## 🚀Frontend ##
