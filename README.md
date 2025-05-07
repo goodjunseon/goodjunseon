@@ -1,6 +1,14 @@
 # 👋 Hi, I'm JunSeon!! #
 성장과 협업을 좋아하는 백엔드 개발자입니다😀 
 
+<div>
+    <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{goodjunseon}"/>
+</a>
+  </a>
+</div>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pzs20019)](https://solved.ac/pzs20019)
 
 
