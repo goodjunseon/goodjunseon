@@ -1,6 +1,6 @@
 # 👋 Hi, I'm JunSeon!! #
 
-<img src="https://private-user-images.githubusercontent.com/168715560/443547313-d2981977-a54b-4ef1-8f71-6a21100f6bcb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDg4NzcsIm5iZiI6MTc0NzIwODU3NywicGF0aCI6Ii8xNjg3MTU1NjAvNDQzNTQ3MzEzLWQyOTgxOTc3LWE1NGItNGVmMS04ZjcxLTZhMjExMDBmNmJjYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNzQyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjE3YzkwYWUwM2M1ZGM4MTQ3ZWQzMjdhM2U2OTk5Y2RlNjZlZDNiNjEyZmE4YTgxNTQ3OTdiZjdmYTYxODIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3QsCTeTCh13GjSJm7VAFk2OmlNtRN2IRaXfu-D2Lslc"/>
+![Image](https://github.com/user-attachments/assets/578b4edc-ee95-4981-b063-0f2e9e8723ad)
 <!-- 
 <div>
     <a href="https://github.com/devxb/gitanimals">
