@@ -1,19 +1,22 @@
 # 👋 Hi, I'm JunSeon!! #
-성장과 협업을 좋아하는 백엔드 개발자입니다😀 
 
+<img src="https://private-user-images.githubusercontent.com/168715560/443547313-d2981977-a54b-4ef1-8f71-6a21100f6bcb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDg4NzcsIm5iZiI6MTc0NzIwODU3NywicGF0aCI6Ii8xNjg3MTU1NjAvNDQzNTQ3MzEzLWQyOTgxOTc3LWE1NGItNGVmMS04ZjcxLTZhMjExMDBmNmJjYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNzQyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjE3YzkwYWUwM2M1ZGM4MTQ3ZWQzMjdhM2U2OTk5Y2RlNjZlZDNiNjEyZmE4YTgxNTQ3OTdiZjdmYTYxODIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3QsCTeTCh13GjSJm7VAFk2OmlNtRN2IRaXfu-D2Lslc"/>
+<!-- 
 <div>
     <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{goodjunseon}"/>
 </a>
   </a>
-</div>
+</div> 
+-->
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pzs20019)](https://solved.ac/pzs20019)
 
 
 
-# 📚Studying... #
+# 🛠️ Tech Skill #
 
 ## 🚀Backend ## 
 <div>
@@ -22,12 +25,7 @@
 
 </div>
 
-
-
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
-
 
 </div>
 
