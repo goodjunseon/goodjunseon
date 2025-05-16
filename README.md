@@ -11,9 +11,9 @@
 -->
 
 
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pzs20019)](https://solved.ac/pzs20019)
-
+-->
 
 
 # 🛠️ Tech Skill #
