@@ -1,4 +1,3 @@
-# 👋 Hi, I'm JunSeon!! #
 <!--
 ![Image](https://github.com/user-attachments/assets/578b4edc-ee95-4981-b063-0f2e9e8723ad)
 -->
