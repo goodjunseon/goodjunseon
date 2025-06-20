@@ -6,7 +6,7 @@
   <img
     src="https://render.gitanimals.org/lines/goodjunseon?pet-id=719154798864523389"
     width="600"
-    height="120"
+    height="300"
   />
 </a>
   
