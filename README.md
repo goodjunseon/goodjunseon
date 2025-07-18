@@ -4,13 +4,14 @@ System.out.println("Hello!");
 ```
 
 ## Career
+- 2022.03 ~ 🚀: 안양대학교 컴퓨터공학과
 - 2024.09 ~ 2025.02: **Hult Prize On Campus** 창업 경진 대회 (운영 부팀장)
 - 2025.03 ~ 🚀: 안양대학교 자율전공 학생 대상 **Student Advisor** 활동
 - 2025.03 ~ ☁️: [kakao x goorm] **구름톤 유니브 4기** 안양대학교 미르미 활동
 
 ## Project
-- 2025.04 ~ 2025.06: 국토교통 데이터 경진대회(Jeonse-ive) 서버 파트 [🔗](https://github.com/Jeonse-ive)
-- 2025.07 ~ 2025.07: [kakao x goorm] 구름톤 유니브 4기 경인X경기북부 연합 해커톤 9ITHON 서버 파트  [🔗](https://github.com/9ITHON/7-ToGetHer-BE)
+- **Jeonse-ive** [국토 교통정보 데이터 활용 공모전 - 전세사기, 소음지도 서비스] [🔗](https://github.com/Jeonse-ive)
+- **ToGetHer** [우리의 피임, 함께라서 더 안전하고 편안하게] [🔗](https://github.com/9ITHON/7-ToGetHer-BE)
 
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis)](https://skillicons.dev)
