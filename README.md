@@ -17,7 +17,7 @@ System.out.println("Hello!");
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,git)](https://skillicons.dev)
 
 ## SNS
-### <img src="./assets/tistory.png" width="20"/> Tech Blog [🔗](https://mydcaf.tistory.com/)  
+### <img src="./assets/tstory.svg" width="20"/> Blog [🔗](https://mydcaf.tistory.com/)  
 ### <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20"/> Instagram [🔗](https://www.instagram.com/good_junseon/)
 
 ---
