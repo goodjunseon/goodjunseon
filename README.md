@@ -5,8 +5,8 @@ System.out.println("Hello!");
 
 ## Career
 - 2022.03 ~ 🚀: 안양대학교 컴퓨터공학과
-- 2024.09 ~ 2025.02: **Hult Prize On Campus** 창업 경진 대회 (운영 부팀장)
-- 2025.03 ~ 🚀: 안양대학교 자율전공 학생 대상 **Student Advisor** 활동
+- 2024.09 ~ 2025.02: **Hult Prize On Campus** 창업 경진 대회 (운영진)
+- 2025.03 ~ 🚀: 안양대학교 컴퓨터공학과 **Student Advisor**
 - 2025.03 ~ ☁️: [kakao x goorm] **구름톤 유니브 4기** 안양대학교 미르미 활동
 
 ## Project
