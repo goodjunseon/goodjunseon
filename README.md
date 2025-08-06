@@ -24,7 +24,7 @@ System.out.println("Hello!");
 
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,nginx,docker,githubactions,git)](https://skillicons.dev)
 
 ## SNS
 ### <img src="./assets/tstory.svg" width="20"/> Blog [🔗](https://mydcaf.tistory.com/)  
