@@ -17,9 +17,9 @@ System.out.println("Hello!");
 
 | 기간 | 내용 |
 |------|------|
-| 2025.04 ~ 2024.05 | 국가 교통정보 공공 데이터 활용 공모전 **[`'Jeonse-ive'`](https://github.com/Jeonse-ive)** Backend, CI/CD 개발 |
-| 2025.07 ~ 2025.07 | 우리의 피임, 함께라서 더 안전하고 편안하게 **[`'ToGetHer'`](https://github.com/goodjunseon/7-ToGetHer-BE)** `Lead` Backend, CI/CD 개발 |
-| 2025.08 ~ 현재 | 안양대학교 축제 올인원 서비스 **[`'Passtival'`](https://github.com/Passtival/Passtival-server)** `Lead` Backend, CI/CD 개발 |
+| 2025.04 ~ 2024.05 | 국가 교통정보 공공 데이터 활용 공모전 **[`'Jeonse-ive'`](https://github.com/Jeonse-ive)** Backend|
+| 2025.07 ~ 2025.07 | 우리의 피임, 함께라서 더 안전하고 편안하게 **[`'ToGetHer'`](https://github.com/goodjunseon/7-ToGetHer-BE)** **`Lead`** Backend, CI/CD 개발 |
+| 2025.08 ~ 현재 | 안양대학교 축제 올인원 서비스 **[`'Passtival'`](https://github.com/Passtival/Passtival-server)** **`Lead`** Backend, CI/CD 개발 |
 
 
 ## Stack
