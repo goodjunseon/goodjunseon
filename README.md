@@ -8,10 +8,10 @@ System.out.println("Hello!");
 | 소속 및 활동                            | 활동 기간              | 내용 |
 |----------------------------------------|------------------------|------|
 | 안양대학교                 | 2021.03 ~ 현재         | 안양대학교 컴퓨터공학부 재학 중 |
-| Hult Prize On Campus 운영진           | 2024.09 ~ 2025.02     | 창업 경진 대회 교내 운영 및 기획 |
+| [Hult Prize](https://www.hultprize.org/how-it-works/) On Campus 운영진           | 2024.09 ~ 2025.02     | 창업 경진 대회 교내 운영 및 기획 |
 | 안양대학교 Student Advisor             | 2025.03 ~ 현재         | 신입생 자율전공학생 멘토링 활동  |
 | 안양대학교 IC LAB                      | 2025.03 ~ 현재         | 
-| [kakao x goorm] 구름톤 Univ 4기       | 2025.03 ~ 현재         | **[`'9ITHON'`](https://github.com/9ITHON)**   |
+| [kakao x goorm] [구름톤](https://9oormthon.university/) Univ 4기       | 2025.03 ~ 현재         | **[`'9ITHON'`](https://github.com/9ITHON)**   |
 
 ### 💻 Projects
 
