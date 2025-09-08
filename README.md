@@ -12,7 +12,7 @@ System.out.println("Hello!");
 | 안양대학교 Student Advisor             | 2025.03 ~ 현재         | 신입생 자율전공학생 멘토링 활동  |
 | 안양대학교 IC LAB                      | 2025.03 ~ 현재         | 
 | [kakao x goorm] [구름톤](https://9oormthon.university/) Univ 4기       | 2025.03 ~ 2025.09         | **[`'9ITHON'`](https://github.com/9ITHON)**   |
-| 대학생 IT 연합 동아리 [Tave](https://www.tave-wave.com/)                   | 2025.09 ~ 현재         |16기 YB  |
+| 대학생 IT 연합 동아리 [Tave](https://www.tave-wave.com/) 16기                | 2025.09 ~ 현재         |  |
 
 ### 💻 Projects
 
