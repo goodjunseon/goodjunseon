@@ -18,7 +18,7 @@
 | 기간 | 내용 |
 |------|------|
 | 2025.08 ~ 현재 | **[Passtival](https://github.com/Passtival/Passtival-server)** 안양대학교 축제 올인원 서비스  Backend|
-| 2025.11 ~ 현재 | **[Oneco](https://github.com/goodjunseon/Oneco-server)** 부모-자녀 페어링 기반 경제·금융 키워드 교육 서비스 Backend |
+| 2025.11 ~ 2026.01 | **[Oneco](https://github.com/goodjunseon/Oneco-server)** 부모-자녀 페어링 기반 경제·금융 키워드 교육 서비스 Backend |
 
 ### Trouble Shooting
 - [S3 이미지 렌더링 속도 개선 843ms → 298ms](https://goodjunseon-tech-blog.tistory.com/13)
